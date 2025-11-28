@@ -1,0 +1,17 @@
+/* avatar size and clipping */
+.avatar-img {
+  width: 80px;
+  height: 80px; 
+}
+
+.types-vertical {
+  display: flex;
+  flex-direction: column;
+  
+
+}
+
+.pokemon-namer {
+  text-transform: capitalize;
+  white-space: normal; /* procurar oq isso faz dps */
+}
